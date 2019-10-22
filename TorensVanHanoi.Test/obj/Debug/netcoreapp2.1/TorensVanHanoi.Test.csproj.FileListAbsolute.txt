@@ -1,0 +1,17 @@
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\bin\Debug\netcoreapp2.1\TorensVanHanoi.Test.deps.json
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\bin\Debug\netcoreapp2.1\TorensVanHanoi.Test.runtimeconfig.json
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\bin\Debug\netcoreapp2.1\TorensVanHanoi.Test.runtimeconfig.dev.json
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\bin\Debug\netcoreapp2.1\TorensVanHanoi.Test.dll
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\bin\Debug\netcoreapp2.1\TorensVanHanoi.Test.pdb
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\bin\Debug\netcoreapp2.1\TorensVanHanoi.Model.dll
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\bin\Debug\netcoreapp2.1\TorensVanHanoi.Model.pdb
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\obj\Debug\netcoreapp2.1\TorensVanHanoi.Test.csprojAssemblyReference.cache
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\obj\Debug\netcoreapp2.1\TorensVanHanoi.Test.csproj.CoreCompileInputs.cache
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\obj\Debug\netcoreapp2.1\TorensVanHanoi.Test.AssemblyInfoInputs.cache
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\obj\Debug\netcoreapp2.1\TorensVanHanoi.Test.AssemblyInfo.cs
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\obj\Debug\netcoreapp2.1\TorensVanHanoi.Test.csproj.CopyComplete
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\obj\Debug\netcoreapp2.1\TorensVanHanoi.Test.dll
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Test\obj\Debug\netcoreapp2.1\TorensVanHanoi.Test.pdb

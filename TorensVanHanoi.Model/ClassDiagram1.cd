@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TorensVanHanoi.Model.Hanoi">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <AssociationLine Name="StartToren" Type="TorensVanHanoi.Model.Toren" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.75" Y="2.06" />
+        <Point X="4.375" Y="2.06" />
+        <Point X="4.375" Y="0.625" />
+        <Point X="13.125" Y="0.625" />
+        <Point X="13.125" Y="2.146" />
+        <Point X="12.75" Y="2.146" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.06" Y="0.26" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hanoi.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MiddelsteToren" />
+      <Property Name="StartToren" />
+      <Property Name="EindToren" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TorensVanHanoi.Model.OngeldigAantalSchijvenException">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OngeldigAantalSchijvenException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TorensVanHanoi.Model.Schijf">
+    <Position X="6.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Schijf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TorensVanHanoi.Model.SchijfTeGrootException">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SchijfTeGrootException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TorensVanHanoi.Model.Toren">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAgAAAAAAAAAAJAAAEAABAAAAEAAA=</HashCode>
+      <FileName>Toren.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BovensteSchijf" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TorensVanHanoi.Model.TorenLeegException">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TorenLeegException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

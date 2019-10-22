@@ -1,0 +1,9 @@
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Model\bin\Debug\netstandard2.0\TorensVanHanoi.Model.deps.json
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Model\bin\Debug\netstandard2.0\TorensVanHanoi.Model.dll
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Model\bin\Debug\netstandard2.0\TorensVanHanoi.Model.pdb
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Model\obj\Debug\netstandard2.0\TorensVanHanoi.Model.csprojAssemblyReference.cache
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Model\obj\Debug\netstandard2.0\TorensVanHanoi.Model.csproj.CoreCompileInputs.cache
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Model\obj\Debug\netstandard2.0\TorensVanHanoi.Model.AssemblyInfoInputs.cache
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Model\obj\Debug\netstandard2.0\TorensVanHanoi.Model.AssemblyInfo.cs
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Model\obj\Debug\netstandard2.0\TorensVanHanoi.Model.dll
+E:\Repos\anaprog-emsedee\Tests-Examen\TorensVanHanoi\TorensVanHanoi.Model\obj\Debug\netstandard2.0\TorensVanHanoi.Model.pdb
